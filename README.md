@@ -1,6 +1,6 @@
 # 🏥 Transformação Digital e Otimização do Acesso à Saúde: PSF Garimpo de Capoeirana
 
-Este repositório contém a aplicação web desenvolvida para a automação do agendamento de consultas no **Posto de Saúde da Família (PSF) Garimpo de Capoeirana**, desenvolvida no âmbito da disciplina **Projeto Integrador de TI III**.
+Este repositório contém a aplicação web desenvolvida para a automação do agendamento de consultas no **Posto de Saúde da Família (PSF) Garimpo de Capoeirana**, desenvolvida no âmbito da disciplina **Projeto Integrador de TI II**.
 
 ---
 
