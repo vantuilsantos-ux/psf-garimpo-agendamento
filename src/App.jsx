@@ -1,10 +1,20 @@
 import React from 'react';
+import FormAgendamento from './components/FormAgendamento';
+import DashboardAdmin from './components/DashboardAdmin';
+import './styles.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>PSF Garimpo de Capoeirana - Agendamento</h1>
-      <p>Plataforma de agendamento de consultas médicas.</p>
+      <header>
+        <h1>🏥 PSF Garimpo de Capoeirana</h1>
+        <p>Sistema Digital de Agendamento de Consultas</p>
+      </header>
+
+      <main>
+        <FormAgendamento />
+        <DashboardAdmin />
+      </main>
     </div>
   );
 }
